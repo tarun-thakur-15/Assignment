@@ -247,7 +247,7 @@ function App() {
                       <div className="card">
                         <div className="card-inner">
                           <div className="cardImageParent">
-                            <img src={CardImageOne} className="cardImage" />
+                            <img src={CardImageOne} alt="CardImageOne" className="cardImage" />
                           </div>
                           <div className="cardImageInner">
                             <h3 className="cardHeading">
@@ -266,7 +266,7 @@ function App() {
                         </div>
                       </div>
                       <div className="status">
-                        <img src={cross} className="statusSvg" />
+                        <img src={cross} alt="cross" className="statusSvg" />
                       </div>
                     </div>
 
@@ -280,7 +280,7 @@ function App() {
                       <div className="card">
                         <div className="card-inner">
                           <div className="cardImageParent">
-                            <img src={CardImageTwo} className="cardImage" />
+                            <img src={CardImageTwo} alt="CardImageTwo" className="cardImage" />
                           </div>
                           <div className="cardImageInner">
                             <h3 className="cardHeading">
@@ -299,7 +299,7 @@ function App() {
                         </div>
                       </div>
                       <div className="status">
-                        <img src={cross} className="statusSvg" />
+                        <img src={cross} alt="cross" className="statusSvg" />
                       </div>
                     </div>
                     <div
@@ -312,7 +312,7 @@ function App() {
                       <div className="card">
                         <div className="card-inner">
                           <div className="cardImageParent">
-                            <img src={CardImageThree} className="cardImage" />
+                            <img src={CardImageThree} alt="CardImageThree" className="cardImage" />
                           </div>
                           <div className="cardImageInner">
                             <h3 className="cardHeading">
@@ -331,7 +331,7 @@ function App() {
                         </div>
                       </div>
                       <div className="status">
-                        <img src={cross} className="statusSvg" />
+                        <img src={cross} alt="cancel" className="statusSvg" />
                       </div>
                     </div>
                     <div
@@ -363,7 +363,7 @@ function App() {
                         </div>
                       </div>
                       <div className="status">
-                        <img src={cross} className="statusSvg" />
+                        <img src={cross} alt="cancel" className="statusSvg" />
                       </div>
                     </div>
 
@@ -377,7 +377,7 @@ function App() {
                       <div className="card">
                         <div className="card-inner">
                           <div className="cardImageParent">
-                            <img src={CardImageFive} className="cardImage" />
+                            <img src={CardImageFive} alt="CardImageFive" className="cardImage" />
                           </div>
                           <div className="cardImageInner">
                             <h3 className="cardHeading">
@@ -396,7 +396,7 @@ function App() {
                         </div>
                       </div>
                       <div className="status">
-                        <img src={cross} className="statusSvg" />
+                        <img src={cross} alt="cancel" className="statusSvg" />
                       </div>
                     </div>
                   </>
@@ -668,7 +668,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
                 <div className="cardParent">
@@ -749,7 +749,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
 
@@ -776,7 +776,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
                 <div className="cardParent">
@@ -802,7 +802,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
                 <div className="cardParent">
@@ -828,7 +828,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
 
@@ -836,7 +836,7 @@ function App() {
                   <div className="card">
                     <div className="card-inner">
                       <div className="cardImageParent">
-                        <img src={CardImageFive} className="cardImage" />
+                        <img src={CardImageFive} alt="CardImageFive" className="cardImage" />
                       </div>
                       <div className="cardImageInner">
                         <h3 className="cardHeading">
@@ -855,7 +855,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
               </>
@@ -883,7 +883,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
 
@@ -910,7 +910,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
                 <div className="cardParent">
@@ -936,7 +936,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
                 <div className="cardParent">
@@ -962,7 +962,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
 
@@ -970,7 +970,7 @@ function App() {
                   <div className="card">
                     <div className="card-inner">
                       <div className="cardImageParent">
-                        <img src={CardImageFive} className="cardImage" />
+                        <img src={CardImageFive} alt="CardImageFive" className="cardImage" />
                       </div>
                       <div className="cardImageInner">
                         <h3 className="cardHeading">
@@ -989,7 +989,7 @@ function App() {
                     </div>
                   </div>
                   <div className="status">
-                    <img src={cross} className="statusSvg" />
+                    <img src={cross} alt="cancel" className="statusSvg" />
                   </div>
                 </div>
               </>
